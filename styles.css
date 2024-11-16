@@ -1,0 +1,23 @@
+li a{
+  text-decoration: none;
+  color: inherit;
+}
+.modal-body ul li{
+  border-radius: 4px;
+  margin: 4px;
+  padding: 3px;
+  text-align: center;
+  background-color: #dc3545;
+  color: #fff;
+}
+.modal-body ul li:hover{
+  background-color: #a7a7a7;
+  color: black;
+}
+
+/* laptop cards */
+.card{
+  min-height: 600px;
+  border: 2px solid #dc3545;
+  margin-bottom: 10px;
+}
