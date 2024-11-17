@@ -21,3 +21,8 @@ li a{
   border: 2px solid #dc3545;
   margin-bottom: 10px;
 }
+
+/* footer */
+footer{
+  text-align: center;
+}
