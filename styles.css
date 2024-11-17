@@ -20,9 +20,19 @@ li a{
   min-height: 600px;
   border: 2px solid #dc3545;
   margin-bottom: 10px;
+  transition: transform 0.3s ease-in-out;
+}
+.card:hover{
+  transform: scale(1.04);
 }
 
 /* footer */
 footer{
   text-align: center;
+}
+
+
+/* newsletter */
+#newsletter-box{
+  border-radius: 4px;
 }
